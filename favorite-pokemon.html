@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Favorite Pokémon - Jia Hua Chong</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+    
+        <!-- Navigation Bar -->
+        <nav class="navbar">
+         <div class="logo">
+           <h1></h1>
+         </div>
+         <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+           <li><a href="publication.html">Publications</a></li>
+           <li><a href="teaching.html">Teaching</a></li>
+           <li><a href="CV.pdf" target="_blank">CV</a></li>
+           <li><a href="">Favorite Pokémon</a></li>
+         </ul>
+         <div class="hamburger" onclick="toggleMenu()">
+          <span>&#9776;</span> <!-- This is the hamburger icon -->
+        </div>
+       </nav>
+   
+    
+  <header>
+    <h1></h1>
+  </header>
+  <main>
+    <section class="info-section">
+        <div class="info-box">
+          <h2><img class="sprite" src="https://media.tenor.com/SH31iAEWLT8AAAAi/pikachu-running.gif" alt="Pikachu Sprite">My Favorite Pokémons</h2>
+            <a href="https://www.pokemon.com/us/pokedex/pikachu">Pikachu</a>, 
+            <!-- <a href="https://www.pokemon.com/us/pokedex/squirtle">Squirtle</a>, -->
+            <!-- <a href="https://www.pokemon.com/us/pokedex/sceptile">Sceptile</a>, -->
+            <!-- <a href="https://www.pokemon.com/us/pokedex/gardevoir">Gardevoir</a>, -->
+            <a href="https://www.pokemon.com/us/pokedex/milotic">Milotic</a>,
+            <!-- <a href="https://www.pokemon.com/us/pokedex/salamence">Salamence</a>, -->
+            <a href="https://www.pokemon.com/us/pokedex/greninja">Greninja</a> 
+        </p>
+    </section>
+    <section class="info-section">
+            <div class="info-box">
+              <h2><img class="sprite" src="https://media.tenor.com/SH31iAEWLT8AAAAi/pikachu-running.gif" alt="Pikachu Sprite">Not useful links</h2>
+              <ul>
+                <li><a href="https://pokemonshowdown.com">Pokémon Showdown!</a>, a online Pokémon battle simulator,</li>
+                <li><a href="https://pokemon.alexonsager.net">Pokémon Fusion</a>, a DNA fusion generator for Pokémon.</li>
+              </ul>
+        
+        <br/>
+    </section>
+</div>
+<script>
+  function toggleMenu() {
+    const navLinks = document.querySelector('.nav-links');
+    navLinks.classList.toggle('active');
+  }
+</script>
+    </body>
+</html>

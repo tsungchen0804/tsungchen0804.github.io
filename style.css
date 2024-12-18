@@ -1,0 +1,193 @@
+/* General Body Styling */
+body, html {
+  margin: 0px;
+  padding: 0;
+  font-family: 'Poppins', sans-serif; /* Clean modern font */
+  background-color: #f1f1f1; /* Light background for a clean look */
+  color: #333; /* Dark grey text */
+}
+
+/* Container Styling */
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: white;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px; /* Rounded corners */
+}
+
+/* Header Styling */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #666; /* Lighter grey */
+}
+
+/* Profile Photo Styling */
+.profile-photo {
+  margin-bottom: 20px;
+}
+
+.profile-photo img {
+  width: 150px;
+  height: auto;
+  object-fit: cover;
+  /* Removed the border property to eliminate the frame */
+}
+
+/* Info Section Styling */
+.info-section {
+  margin-top: 20px;
+}
+
+.info-box {
+  background-color: #f9f9f9; /* Soft background for the info boxes */
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.info-box h2 {
+  font-size: 1.5rem;
+  color: #4CAF50; /* Green headings */
+  margin-bottom: 10px;
+}
+
+.info-box p {
+  font-size: 1rem;
+  color: #555; /* Dark grey text */
+}
+
+/* Link Styling */
+a {
+  color: #4CAF50; /* Green links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 1rem;
+  color: #888;
+}
+
+footer p {
+  margin: 0;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+
+  header h1 {
+    font-size: 2rem;
+  }
+
+  .info-box {
+    padding: 15px;
+  }
+}
+
+.sprite {
+  width: 30px; /* Set width */
+  height: auto; /* Let the height adjust automatically to maintain aspect ratio */
+  margin-right: 10px; /* Space between sprite and text */
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+  background-color: #ffffff; /* Dark background */
+  color: rgb(255, 32, 32);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1); /* Subtle shadow */
+  border-radius: 20px; /* Rounded corners */
+}
+
+.navbar .logo h1 {
+  font-size: 1.8rem;
+  margin: 0;
+  color: #4CAF50; /* Green color to match your theme */
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.nav-links li {
+  padding: 5px 0;
+}
+
+.nav-links a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #4CAF50; /* Green color on hover */
+  transform: scale(1.1); /* Slight scale effect */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .nav-links {
+    display: none;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .nav-links.active {
+    display: block;
+  }
+
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+/* Hamburger Icon (for smaller screens) */
+.hamburger {
+  display: none;
+  font-size: 40px; /* Increase the size */
+  color: #4CAF50; /* Green color on hover */
+  cursor: pointer;
+  padding: 10px;
+}
+
+/* Media Query for Narrow Screens */
+@media screen and (max-width: 768px) {
+  .hamburger {
+    display: block; /* Show the hamburger icon */
+    font-size: 45px; /* Increase size for better visibility */
+    padding: 15px; /* Add some padding around the icon */
+  }
+}

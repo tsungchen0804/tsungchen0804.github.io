@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile - Jia Hua Chong</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet"> <!-- Modern font -->
+</head>
+<body>
+
+
+
+  <div class="container">
+    
+     <!-- Navigation Bar -->
+     <nav class="navbar">
+      <div class="logo">
+        <h1></h1>
+      </div>
+      <ul class="nav-links">
+        <li><a href="">Home</a></li>
+        <li><a href="publication.html">Publications</a></li>
+        <li><a href="teaching.html">Teaching</a></li>
+        <li><a href="CV.pdf" target="_blank">CV</a></li>
+        <li><a href="favorite-pokemon.html">Favorite Pokémon</a></li>
+      </ul>
+      <div class="hamburger" onclick="toggleMenu()">
+        <span>&#9776;</span> <!-- This is the hamburger icon -->
+      </div>
+    </nav>
+
+
+    <header>
+      <div class="profile-photo">
+        <img src="https://archives.bulbagarden.net/media/upload/2/2b/Spr_5b2_025_m.png" alt="Profile Photo">
+      </div>
+      <h1>Jia Hua Chong</h1>
+  
+    </header>
+
+    <main>
+      <section class="info-section">
+        <div class="info-box">
+          <h2><img class="sprite" src="https://media.tenor.com/SH31iAEWLT8AAAAi/pikachu-running.gif" alt="Pikachu Sprite">About Me</h2>
+          <p>I am a Mathematics PhD at National Taiwan University. My doctoral advisor is Prof. Hui-Wen Lin.</p>
+        </div>
+
+        <div class="info-box">
+          <h2><img class="sprite" src="https://media.tenor.com/SH31iAEWLT8AAAAi/pikachu-running.gif" alt="Pikachu Sprite">Education</h2>
+          <p><strong>PhD</strong>, Mathematics, National Taiwan University, 2023-Present</p>
+          <p><strong>B.S.</strong>, Mathematics, National Taiwan University, 2019-2023</p>
+        </div>
+
+        <div class="info-box">
+          <h2><img class="sprite" src="https://media.tenor.com/SH31iAEWLT8AAAAi/pikachu-running.gif" alt="Pikachu Sprite">Research</h2>
+          <p>My research interests focus on algebraic geometry and Gromov-Witten theory.</p>
+        </div>
+
+        <div class="info-box">
+          <h2><img class="sprite" src="https://media.tenor.com/SH31iAEWLT8AAAAi/pikachu-running.gif" alt="Pikachu Sprite">Contact</h2>
+          <p>d12221001 at ntu dot edu dot tw</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2024 Jia Hua Chong. All rights reserved.</p>
+    </footer>
+  </div>
+
+  <script>
+    function toggleMenu() {
+      const navLinks = document.querySelector('.nav-links');
+      navLinks.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
