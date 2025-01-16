@@ -3,7 +3,7 @@ body, html {
   margin: 0px;
   padding: 0;
   font-family: 'Poppins', sans-serif; /* Clean modern font */
-  background-color: #f1f1f1; /* Light background for a clean look */
+  background-color: rgb(240, 248, 255); /* Light background for a clean look */
   color: #333; /* Dark grey text */
 }
 
@@ -12,7 +12,7 @@ body, html {
   max-width: 1000px;
   margin: 0 auto;
   padding: 40px;
-  background-color: white;
+  background-color: rgb(204, 204, 255);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
   border-radius: 10px; /* Rounded corners */
 }
@@ -25,7 +25,7 @@ header {
 
 header h1 {
   font-size: 2.5rem;
-  color: #333;
+  color: rgb(50, 18, 122);
   margin-bottom: 10px;
 }
 
@@ -52,7 +52,7 @@ header h1 {
 }
 
 .info-box {
-  background-color: #f9f9f9; /* Soft background for the info boxes */
+  background-color: rgb(246, 250, 255); /* Soft background for the info boxes */
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px; /* Rounded corners */
@@ -61,7 +61,7 @@ header h1 {
 
 .info-box h2 {
   font-size: 1.5rem;
-  color: #4CAF50; /* Green headings */
+  color: rgb(100, 149, 237); /* Green headings */
   margin-bottom: 10px;
 }
 
@@ -72,7 +72,7 @@ header h1 {
 
 /* Link Styling */
 a {
-  color: #4CAF50; /* Green links */
+  color: #c483ef; /* Green links */
   text-decoration: none;
 }
 
@@ -118,7 +118,7 @@ footer p {
   justify-content: space-between;
   align-items: center;
   padding: 20px 30px;
-  background-color: #ffffff; /* Dark background */
+  background-color: rgb(246, 250, 255); /* Dark background */
   color: rgb(255, 32, 32);
   position: sticky;
   top: 0;
@@ -151,7 +151,7 @@ footer p {
 }
 
 .nav-links a:hover {
-  color: #4CAF50; /* Green color on hover */
+  color: rgb(100, 149, 237); /* Green color on hover */
   transform: scale(1.1); /* Slight scale effect */
 }
 
@@ -178,7 +178,7 @@ footer p {
 .hamburger {
   display: none;
   font-size: 40px; /* Increase the size */
-  color: #4CAF50; /* Green color on hover */
+  color: rgb(100, 149, 237); /* Green color on hover */
   cursor: pointer;
   padding: 10px;
 }
