@@ -40,7 +40,7 @@ header h1 {
 }
 
 .profile-photo img {
-  width: 150px;
+  width: 500px;
   height: auto;
   object-fit: cover;
   /* Removed the border property to eliminate the frame */
@@ -72,7 +72,7 @@ header h1 {
 
 /* Link Styling */
 a {
-  color: #c483ef; /* Green links */
+  color: rgb(30, 144, 255); /* Green links */
   text-decoration: none;
 }
 
@@ -108,7 +108,7 @@ footer p {
 }
 
 .sprite {
-  width: 30px; /* Set width */
+  width: 40px; /* Set width */
   height: auto; /* Let the height adjust automatically to maintain aspect ratio */
   margin-right: 10px; /* Space between sprite and text */
 }
