@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resoureces:
     - TSUNG_CHEN_CHEN_CV.pdf
+    - "notes/*.pdf"
 
 website:
   title: "Tsung-Chen Chen"
