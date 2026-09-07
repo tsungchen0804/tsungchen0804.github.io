@@ -50,7 +50,7 @@ Algebraic geometry · Toric varieties · Gromov–Witten theory
 
 With Jia-Hua Chong and Hui-Wen Lin. For a non-smooth toric flop of the simplest type, we provide the quantum product formulas and construct the degree-preserving quantum correspondence via generalized analytic continuation which is achieved through a regularization map. Moreover, the generating functions of Gromov--Witten invariants with ancestors are invariant for all genera.
 
-[Abstract & links →]https://arxiv.org/abs/2608.24066)
+[Abstract & links →](https://arxiv.org/abs/2608.24066)
 :::
 
 ::: {.work-item}
@@ -60,7 +60,7 @@ With Jia-Hua Chong and Hui-Wen Lin. For a non-smooth toric flop of the simplest 
 
 With Hui-Wen Lin and Sz-Sheng Wang.
 
-[Abstract & links →]https://arxiv.org/abs/2411.12446)
+[Abstract & links →](https://arxiv.org/abs/2411.12446)
 :::
 ::::
 
@@ -74,27 +74,27 @@ Professor Hui-Wen Lin
 
 ::: {.fact}
 <span class="fact-label">Office</span>
-Mathematics Building 314
+Astronomy-Mathematics Building 423
 :::
 
 ::: {.fact}
 <span class="fact-label">Email</span>
-[your.name@university.edu](mailto:your.name@university.edu)
+d13221003[at]ntu.edu.tw
 :::
 
 ::: {.fact}
 <span class="fact-label">Profiles</span>
-[Google Scholar](https://scholar.google.com/) · [ORCID](https://orcid.org/) · [GitHub](https://github.com/tsungchen0804)
+[Google Scholar](https://scholar.google.com/) · [ORCID](https://orcid.org/0009-0001-3539-2118) · [GitHub](https://github.com/tsungchen0804)
 :::
 
 ## Upcoming
 
 ::: {.event}
 <span class="event-date">15 OCT 2026</span>
-**Geometry Seminar**  
-National Taiwan University
+**Example**  
+Example
 
-*Compactifications and boundary phenomena*
+*Example*
 ::::
 :::::
 :::
