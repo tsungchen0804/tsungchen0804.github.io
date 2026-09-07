@@ -1,0 +1,15 @@
+---
+title: "Notes"
+description: "Expository and teaching notes."
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+  feed: true
+page-layout: full
+toc: false
+---
+
+Expository notes, teaching materials, and occasional research-adjacent calculations. These are informal and may be revised.
+

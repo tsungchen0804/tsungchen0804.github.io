@@ -1,0 +1,27 @@
+---
+title: "Research"
+description: "Research programme, current questions, and mathematical background."
+---
+
+My research interests lie in **algebraic geometry**, with particular emphasis on **toric varieties** and **Gromov–Witten theory**.
+
+## Algebraic geometry
+
+I am interested in geometric questions that can be studied through the interaction of algebraic, combinatorial, and intersection-theoretic methods.
+
+## Toric varieties
+
+Toric geometry provides a setting in which algebraic geometry interacts naturally with combinatorics. I am interested in how this structure can be used to study geometric invariants and moduli problems.
+
+## Gromov–Witten theory
+
+I am interested in Gromov–Witten invariants and their connections with enumerative geometry, especially in settings related to toric geometry.
+
+## Current work
+
+More detailed descriptions of current projects will be added as they become ready for public presentation.
+
+## Collaboration
+
+I welcome conversations about related questions in algebraic geometry, toric varieties, and Gromov–Witten theory. Please feel free to contact me.
+

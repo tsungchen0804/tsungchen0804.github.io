@@ -1,0 +1,100 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::::: {.hero-shell}
+:::: {.hero-copy}
+<p class="eyebrow">MATHEMATICS · PHD STUDENT</p>
+
+# Tsung-Chen Chen
+
+I am a PhD student in mathematics at **National Taiwan University**, working in algebraic geometry under the supervision of **Professor Hui-Wen Lin**.
+
+<p class="affiliation">Department of Mathematics · National Taiwan University</p>
+
+::: {.hero-actions}
+[View research](research.qmd){.button .button-primary}
+[Publications](publications.qmd){.button .button-secondary}
+[Email me](mailto:your.name@university.edu){.text-link}
+:::
+::::
+
+:::: {.hero-mark aria-hidden="true"}
+<span class="mark-symbol">∫</span>
+<span class="mark-formula">M → X</span>
+<span class="mark-caption">local ↔ global</span>
+::::
+:::::
+
+::::: {.home-grid}
+:::: {.home-main}
+## About
+
+I am a PhD student in mathematics at **National Taiwan University**, advised by **Professor Hui-Wen Lin**. My research interests include algebraic geometry, toric varieties, and Gromov–Witten theory.
+
+I received my B.S. in Mathematics from National Taiwan University in 2024 and began my PhD studies in the same year.
+
+::: {.research-line}
+<span>Research interests</span>
+Algebraic geometry · Toric varieties · Gromov–Witten theory 
+:::
+
+## Selected work
+
+::: {.work-item}
+<span class="work-year">2026 · PREPRINT</span>
+
+### Quantum invariance under non-smooth toric flops of the simplest type
+
+With Jia-Hua Chong and Hui-Wen Lin. For a non-smooth toric flop of the simplest type, we provide the quantum product formulas and construct the degree-preserving quantum correspondence via generalized analytic continuation which is achieved through a regularization map. Moreover, the generating functions of Gromov--Witten invariants with ancestors are invariant for all genera.
+
+[Abstract & links →]https://arxiv.org/abs/2608.24066)
+:::
+
+::: {.work-item}
+<span class="work-year">2024 · Math. Z. 313 (2026), no.3, Paper No.46</span>
+
+### Fiber products under toric flops and flips
+
+With Hui-Wen Lin and Sz-Sheng Wang.
+
+[Abstract & links →]https://arxiv.org/abs/2411.12446)
+:::
+::::
+
+:::: {.home-aside}
+## At a glance
+
+::: {.fact}
+<span class="fact-label">Advisor</span>
+Professor Hui-Wen Lin
+:::
+
+::: {.fact}
+<span class="fact-label">Office</span>
+Mathematics Building 314
+:::
+
+::: {.fact}
+<span class="fact-label">Email</span>
+[your.name@university.edu](mailto:your.name@university.edu)
+:::
+
+::: {.fact}
+<span class="fact-label">Profiles</span>
+[Google Scholar](https://scholar.google.com/) · [ORCID](https://orcid.org/) · [GitHub](https://github.com/tsungchen0804)
+:::
+
+## Upcoming
+
+::: {.event}
+<span class="event-date">15 OCT 2026</span>
+**Geometry Seminar**  
+National Taiwan University
+
+*Compactifications and boundary phenomena*
+::::
+:::::
+:::
