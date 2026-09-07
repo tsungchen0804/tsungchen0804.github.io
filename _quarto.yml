@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tsung-Chen Chen"
+  site-url: "https://tsungchen0804.github.io"
+  description: "Academic website of Tsung-Chen Chen, a PhD student in mathematics."
+  favicon: images/favicon.svg
+  open-graph: true
+  page-navigation: true
+  back-to-top-navigation: true
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: notes/index.qmd
+        text: Notes
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/tsungchen0804
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:your.name@university.edu
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Tsung-Chen Chen"
+    center: "Built with Quarto · Hosted on GitHub Pages"
+    right:
+      - text: "Source"
+        href: https://github.com/tsungchen0804/tsungchen0804.github.io
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: On this page
+    smooth-scroll: true
+    code-copy: true
+    link-external-newwindow: true
+    html-math-method: mathjax
+    include-in-header:
+      text: |
+        <meta name="theme-color" content="#0b1f33">
+
+execute:
+  freeze: auto
+
+bibliography: references.bib

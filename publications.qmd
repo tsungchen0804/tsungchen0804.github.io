@@ -1,0 +1,39 @@
+---
+title: "Publications"
+description: "Preprints and published work by Tsung-Chen Chen."
+toc: false
+---
+
+Links marked **PDF**, **arXiv**, **DOI**, and **Code** are placeholders for your real publication links.
+
+## Preprints {#preprints}
+
+::: {.publication}
+<span class="pub-index">01</span>
+
+### Quantum invariance under non-smooth toric flops of the simplest type
+
+**Tsung-Chen Chen**, **Jia-Hua Chong**, **Hui-Wen Lin**. 2026. Preprint.
+
+For a non-smooth toric flop of the simplest type, we provide the quantum product formulas and construct the degree-preserving quantum correspondence via generalized analytic continuation which is achieved through a regularization map. Moreover, the generating functions of Gromov--Witten invariants with ancestors are invariant for all genera.
+
+[PDF](#){.pub-link} [arXiv](https://arxiv.org/abs/2608.24066){.pub-link} [Code](#){.pub-link}
+:::
+
+## Published {#published}
+
+::: {.publication}
+<span class="pub-index">02</span>
+
+### Fiber products under toric flops and flips
+
+**Tsung-Chen Chen**, **Hui-Wen Lin** and **Sz-Sheng Wang**. 2026. Math. Z. 313 (2026), no.3, Paper No.46.
+
+Abstract.
+
+[PDF](#){.pub-link} [arXiv](https://arxiv.org/abs/2411.12446){.pub-link}
+:::
+
+## Citation data
+
+Publication metadata is stored in [`references.bib`](references.bib). Replace the sample entries there with your own BibTeX records so your publication data stays portable.

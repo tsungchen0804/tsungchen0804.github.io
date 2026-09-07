@@ -1,0 +1,30 @@
+---
+title: "Curriculum Vitae"
+description: "Curriculum vitae of Tsung-Chen Chen."
+toc: false
+---
+
+<p class="cv-updated">Last updated September 2026 · <a href="mailto:your.name@university.edu">Request a PDF copy</a></p>
+
+## Education
+
+:::: {.cv-row}
+::: {.cv-date}
+2024–present
+:::
+::: {.cv-detail}
+### Ph.D. Student in Mathematics
+**National Taiwan University** · Advisor: Professor Hui-Wen Lin  
+Expected completion: 2029
+:::
+::::
+
+:::: {.cv-row}
+::: {.cv-date}
+2020–2024
+:::
+::: {.cv-detail}
+### B.S. in Mathematics
+**National Taiwan University**
+:::
+::::
