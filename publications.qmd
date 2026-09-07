@@ -1,43 +1,44 @@
 ---
 title: "Publications"
 description: "Preprints and published work by Tsung-Chen Chen."
-toc: false
 ---
-
-## Preprints {#preprints}
-
-::: {.publication}
-<span class="pub-index">01</span>
-
-### Quantum invariance under non-smooth toric flops of the simplest type
-
-**Tsung-Chen Chen**, **Jia-Hua Chong**, **Hui-Wen Lin**. 2026. Preprint.
-
-For a non-smooth toric flop of the simplest type, we provide the quantum product formulas and construct the degree-preserving quantum correspondence via generalized analytic continuation which is achieved through a regularization map. Moreover, the generating functions of Gromov--Witten invariants with ancestors are invariant for all genera.
-
-[PDF](#){.pub-link} [arXiv](https://arxiv.org/abs/2608.24066){.pub-link} [Code](#){.pub-link}
-:::
 
 ## Published {#published}
 
 ::: {.publication}
 <span class="pub-index">02</span>
+<span class="work-year">2024 · Math. Z. 313 (2026), no.3, Paper No.46</span>
 
 ### Fiber products under toric flops and flips
 
-**Tsung-Chen Chen**, **Hui-Wen Lin** and **Sz-Sheng Wang**. 2026. Math. Z. 313 (2026), no.3, Paper No.46.
+Joint work with **Hui-Wen Lin** and **Sz-Sheng Wang**.
 
-Let $\Sigma$ and $\Sigma'$ be two refinements of a fan $\Sigma_0$ and $f \colon X_{\Sigma} \dashrightarrow X_{\Sigma'}$ be the birational map induced by $X_{\Sigma} \rightarrow X_{\Sigma_0} \leftarrow X_{\Sigma'}$. We show that the graph closure $\Graphc$ is a \emph{not necessarily normal} toric variety and we give a combinatorial criterion for its normality.  
+Let $\Sigma$ and $\Sigma'$ be two refinements of a fan $\Sigma_0$ and $f \colon X_{\Sigma} \dashrightarrow X_{\Sigma'}$ be the birational map induced by $X_{\Sigma} \rightarrow X_{\Sigma_0} \leftarrow X_{\Sigma'}$. We show that the graph closure $\overline{\Gamma}_f$ is a not necessarily normal toric variety and we give a combinatorial criterion for its normality.  
 
-In contrast to it, for $f$ being a toric flop/flip, we show that the scheme-theoretic fiber product $X \coloneqq X_{\Sigma}\times_{X_{\Sigma_0}}X_{\Sigma'}$ is in general \emph{not toric}, though it is still \emph{irreducible} and $X_{\rm red} = \overline{\Gamma}_f$.  
-
-A complete numerical criterion to ensure $X = X_{\rm red}$ is given for 3-folds, which is fulfilled when $X_\Sigma$ has at most terminal singularities. In this case, we further conclude that $X$ is normal.  
+In contrast to it, for $f$ being a toric flop/flip, we show that the scheme-theoretic fiber product $X \coloneqq X_{\Sigma}\times_{X_{\Sigma_0}}X_{\Sigma'}$ is in general not toric, though it is still irreducible and $X_{\rm red} = \overline{\Gamma}_f$. A complete numerical criterion to ensure $X = X_{\rm red}$ is given for 3-folds, which is fulfilled when $X_\Sigma$ has at most terminal singularities. In this case, we further conclude that $X$ is normal.  
 
 The result turns out to be a key step to study the correspondence between Chow motives under toric flops and flips.
 
-[PDF](#){.pub-link} [arXiv](https://arxiv.org/abs/2411.12446){.pub-link}
+[PDF](research/Fiber_products_under_toric_flops_and_flips.pdf){.pub-link target="_blank"} [arXiv:2411.12446](https://arxiv.org/abs/2411.12446){.pub-link}
 :::
 
-## Citation data
+## Preprints {#preprints}
 
-Publication metadata is stored in [`references.bib`](references.bib). Replace the sample entries there with your own BibTeX records so your publication data stays portable.
+::: {.publication}
+<span class="pub-index">01</span>
+<span class="work-year">2026 · PREPRINT</span>
+
+### Quantum invariance under non-smooth toric flops of the simplest type
+
+Joint work with **Jia-Hua Chong**, **Hui-Wen Lin**.
+
+For a non-smooth toric flop of the simplest type, we provide the quantum product formulas and construct the degree-preserving quantum correspondence via generalized analytic continuation which is achieved through a regularization map. Moreover, the generating functions of Gromov--Witten invariants with ancestors are invariant for all genera.
+
+[PDF](#){.pub-link} [arXiv:2608.24066](https://arxiv.org/abs/2608.24066){.pub-link}
+:::
+
+## Collaborator list
+[Jia-Hua Chong](https://jiahua62556.github.io/), [Hui-Wen Lin](https://www.math.ntu.edu.tw/~linhw/), [Sz-Sheng Wang](https://sites.google.com/view/s-swangspage/home)
+
+## Citation data
+Publication metadata is stored in [`references.bib`](references.bib). 

@@ -21,10 +21,10 @@ I am a PhD student in mathematics at **National Taiwan University**, working in 
 :::
 ::::
 
-:::: {.hero-mark aria-hidden="true"}
-<span class="mark-symbol">∫</span>
-<span class="mark-formula">M → X</span>
-<span class="mark-caption">local ↔ global</span>
+:::: {.hero-mark}
+<img src="images/hero_photo.jpg"
+     class="hero-photo"
+     alt="">
 ::::
 :::::
 
@@ -62,9 +62,9 @@ For a non-smooth toric flop of the simplest type, we provide the quantum product
 
 With Hui-Wen Lin and Sz-Sheng Wang.
 
-Let $\Sigma$ and $\Sigma'$ be two refinements of a fan $\Sigma_0$ and $f \colon X_{\Sigma} \dashrightarrow X_{\Sigma'}$ be the birational map induced by $X_{\Sigma} \rightarrow X_{\Sigma_0} \leftarrow X_{\Sigma'}$. We show that the graph closure $\Graphc$ is a \emph{not necessarily normal} toric variety and we give a combinatorial criterion for its normality.  
+Let $\Sigma$ and $\Sigma'$ be two refinements of a fan $\Sigma_0$ and $f \colon X_{\Sigma} \dashrightarrow X_{\Sigma'}$ be the birational map induced by $X_{\Sigma} \rightarrow X_{\Sigma_0} \leftarrow X_{\Sigma'}$. We show that the graph closure $\overline{\Gamma}_f$ is a not necessarily normal toric variety and we give a combinatorial criterion for its normality.  
 
-In contrast to it, for $f$ being a toric flop/flip, we show that the scheme-theoretic fiber product $X \coloneqq X_{\Sigma}\times_{X_{\Sigma_0}}X_{\Sigma'}$ is in general \emph{not toric}, though it is still \emph{irreducible} and $X_{\rm red} = \overline{\Gamma}_f$.  
+In contrast to it, for $f$ being a toric flop/flip, we show that the scheme-theoretic fiber product $X \coloneqq X_{\Sigma}\times_{X_{\Sigma_0}}X_{\Sigma'}$ is in general not toric, though it is still irreducible and $X_{\rm red} = \overline{\Gamma}_f$.  
 
 A complete numerical criterion to ensure $X = X_{\rm red}$ is given for 3-folds, which is fulfilled when $X_\Sigma$ has at most terminal singularities. In this case, we further conclude that $X$ is normal.  
 

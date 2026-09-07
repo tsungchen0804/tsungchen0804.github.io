@@ -1,12 +1,12 @@
 ---
 title: "Notes"
-description: "Expository and teaching notes."
+description: ""
 listing:
   contents:
     - "*.qmd"
     - title: "Notes on the Minimal Model Program"
       date: 2023-12-31
-      description: "The lecture teached by Prof. Sz-Sheng Wang"
+      description: "Lecture by Prof. **Sz-Sheng Wang**"
       path: "MMP.pdf"
   sort: "date desc"
   type: default

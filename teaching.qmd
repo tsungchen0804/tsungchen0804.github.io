@@ -1,7 +1,74 @@
 ---
 title: "Teaching"
-description: "Teaching experience and resources."
+description: ""
+page-layout: full
+toc: false
 ---
 
-Teaching information and course materials will be added here.
+::::: {.teaching-intro}
+:::: {.teaching-intro-copy}
+<p class="eyebrow">TEACHING · MATHEMATICS</p>
 
+## Teaching mathematics
+
+Alongside my research, I am committed to teaching and sharing mathematics with students. I have served as a teaching assistant for courses across algebra, analysis, and calculus.
+::::
+
+:::: {.teaching-summary aria-label="Teaching experience summary"}
+<span class="teaching-summary-label">Experience</span>
+<strong>Four courses</strong>
+<span>Academic years 2023–2027</span>
+::::
+:::::
+
+## Teaching assistantships
+
+:::: {.teaching-list}
+::::: {.teaching-course}
+::: {.teaching-year}
+AY 2026/27
+:::
+
+::: {.teaching-course-copy}
+### Calculus
+
+Teaching Assistant
+:::
+:::::
+
+::::: {.teaching-course}
+::: {.teaching-year}
+AY 2025/26
+:::
+
+::: {.teaching-course-copy}
+### Complex Analysis (Honor) and Riemann surfaces
+
+Teaching Assistant
+:::
+:::::
+
+::::: {.teaching-course}
+::: {.teaching-year}
+AY 2024/25
+:::
+
+::: {.teaching-course-copy}
+### Introduction to Algebra
+
+Teaching Assistant
+:::
+:::::
+
+::::: {.teaching-course}
+::: {.teaching-year}
+AY 2023/24
+:::
+
+::: {.teaching-course-copy}
+### Linear Algebra
+
+Teaching Assistant
+:::
+:::::
+::::
