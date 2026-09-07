@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: _site
-  resoureces:
+  resources:
     - TSUNG_CHEN_CHEN_CV.pdf
     - "notes/*.pdf"
 
