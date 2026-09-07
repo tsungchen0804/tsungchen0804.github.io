@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resoureces:
+    - TSUNG_CHEN_CHEN_CV.pdf
 
 website:
   title: "Tsung-Chen Chen"
@@ -26,7 +28,7 @@ website:
         text: Teaching
       - href: notes/index.qmd
         text: Notes
-      - href: cv.qmd
+      - href: TSUNG_CHEN_CHEN_CV.pdf
         text: CV
     right:
       - icon: github
